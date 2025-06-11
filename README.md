@@ -26,8 +26,16 @@ This project analyzes employee messages to derive sentiment and engagement insig
 - **patti.thompson@enron.com**
 
 ### Flight Risk Employees:
-- No employees met the flight risk criteria (4 or more negative messages within a rolling 30-day window).
-
+These employees were flagged as flight risks based on the following condition:
+They sent 4 or more negative messages within a rolling 30-day period.
+Identified Employees:
+- **bobette.riner@ipgdirect.com**
+- **johnny.palmer@enron.com**
+- **lydia.delgado@enron.com**
+- **patti.thompson@enron.com**
+- **rhonda.denton@enron.com**
+- **sally.beck@enron.com**
+- **john.arnold@enron.com**
 ## Key Visualizations (saved in `/visualization`):
 - `sentiment_distribution.png`: Sentiment label counts.
 - `message_length_by_sentiment.png`: Message lengths per sentiment.
