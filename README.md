@@ -1,6 +1,6 @@
 # Final LLM Practical Assignemnet
 
-# 📊 Employee Sentiment Analysis – Final LLM Assessment
+# Employee Sentiment Analysis – Final LLM Assessment
 
 **Name:** Greeshma Gudapati  
 **Date:** 06/14/2025  
@@ -16,7 +16,7 @@ I used Python with HuggingFace Transformers (RoBERTa), pandas, matplotlib, and s
 
 ---
 
-## ✅ Tasks and Key Deliverables
+##  Tasks and Key Deliverables
 
 ### **Task 1: Sentiment Labeling**
 - Used a pre-trained `cardiffnlp/twitter-roberta-base-sentiment` model to classify each message.
@@ -53,7 +53,7 @@ I used Python with HuggingFace Transformers (RoBERTa), pandas, matplotlib, and s
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 .
 ├── GreenTreen_ProjectProblemStatement_SolutionGG.ipynb
 ├── README.md
@@ -70,7 +70,7 @@ I used Python with HuggingFace Transformers (RoBERTa), pandas, matplotlib, and s
 │   └── top_positive_employees_over_time.png
 
 
-## 📌 Notes
+##  Notes
 
 - All labeling, scoring, ranking, and modeling are reproducible from the notebook.
 - The project strictly followed LLM Final Assessment guidelines and FAQs.
@@ -78,7 +78,7 @@ I used Python with HuggingFace Transformers (RoBERTa), pandas, matplotlib, and s
 
 ---
 
-## 📫 Contact
+##  Contact
 
 For any clarification related to this submission, feel free to reach me at:
 
