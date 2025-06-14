@@ -8,7 +8,7 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This project explores employee sentiment using a dataset of internal email messages. The goal was to label message sentiment, analyze employee engagement patterns, and build a basic prediction model based on communication behavior.
 
