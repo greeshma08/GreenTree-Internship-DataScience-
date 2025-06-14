@@ -62,7 +62,6 @@ I used Python with HuggingFace Transformers (RoBERTa), pandas, matplotlib, and s
 │   ├── eda_boxplot_length_sentiment.png
 │   ├── eda_message_length_histogram.png
 │   ├── eda_sentiment_distribution.png
-│   ├── final_flight_risk_employees_Fixed.png
 │   ├── monthly_score_distribution.png
 │   ├── roberta_sentiment_distribution.png
 │   ├── task6_sentiment_regression_plot.png
