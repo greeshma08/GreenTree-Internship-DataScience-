@@ -40,7 +40,7 @@ I used Python with HuggingFace Transformers (RoBERTa), pandas, matplotlib, and s
 
 ### **Task 5: Flight Risk Identification**
 - Applied a **rolling 30-day window** to flag employees sending **4+ negative messages**.
-- Result: 10 employees identified as potential flight risks.
+- Result: 4 employees identified as potential flight risks.
 - Output: `flight_risk_df` table and associated plots.
 
 ### **Task 6: Predictive Modeling**
